@@ -1,0 +1,27 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "dvabztWVQX8f6oMLRyv4dLH+TGY=",
+			"origin": "github.com/stretchr/testify/vendor/github.com/davecgh/go-spew/spew",
+			"path": "github.com/davecgh/go-spew/spew",
+			"revision": "d84e815d441de9c64a3a2f9336c32acf1e7349d1",
+			"revisionTime": "2019-01-31T00:33:30Z"
+		},
+		{
+			"checksumSHA1": "LuFv4/jlrmFNnDb/5SCSEPAM9vU=",
+			"origin": "github.com/stretchr/testify/vendor/github.com/pmezard/go-difflib/difflib",
+			"path": "github.com/pmezard/go-difflib/difflib",
+			"revision": "d84e815d441de9c64a3a2f9336c32acf1e7349d1",
+			"revisionTime": "2019-01-31T00:33:30Z"
+		},
+		{
+			"checksumSHA1": "d2c1LNsKWhNv3MqHr85G1yycQHc=",
+			"path": "github.com/stretchr/testify/assert",
+			"revision": "d84e815d441de9c64a3a2f9336c32acf1e7349d1",
+			"revisionTime": "2019-01-31T00:33:30Z"
+		}
+	],
+	"rootPath": "github.com/buddingleader/gaea-core"
+}
